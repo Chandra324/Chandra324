@@ -1,3 +1,5 @@
+<img src="https://gdi-nyc.github.io/intro-to-git-and-github/images/git-daft-punk-2.gif" width="330" height="450">
+
 Hi 👋 My name is Chandra Sekhar Reddy kummetha
 ==============================================
 
@@ -47,5 +49,4 @@ Java and Web developer
                     </a></p><b>My GitHub Status</b><br><a
                       href="http://www.github.com/Chandra324"><img src="https://github-readme-stats.vercel.app/api?username=Chandra324&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ec4899&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Chandra324's GitHub stats" /></a><a
                       href="http://www.github.com/Chandra324"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=Chandra324&stroke=ec4899&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ec4899&currStreakLabel=0891b2&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a><a
-                      href="http://www.github.com/Chandra324"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Chandra324&bg_color=1c1917&color=ec4899&line=0891b2&point=ec4899&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=Chandra324&stroke=ec4899&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ec4899&currStreakLabel=0891b2&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a>
