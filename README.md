@@ -1,4 +1,4 @@
-<img src="https://gdi-nyc.github.io/intro-to-git-and-github/images/git-daft-punk-2.gif" width="330" height="450">
+<img src="https://gdi-nyc.github.io/intro-to-git-and-github/images/git-daft-punk-2.gif" width="330" height="450"><img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="500" height="500">
 
 Hi 👋 My name is Chandra Sekhar Reddy kummetha
 ==============================================
