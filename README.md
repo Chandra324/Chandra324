@@ -47,6 +47,6 @@ Java and Web developer
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" />
                     </picture>
                     </a></p><b>My GitHub Status</b><br><a
-                      href="http://www.github.com/Chandra324"><img src="https://github-readme-stats.vercel.app/api?username=Chandra324&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ec4899&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Chandra324's GitHub stats" /></a><a
+                      href="http://www.github.com/Chandra324"><img src="https://github-readme-status.vercel.app/api?username=Chandra324&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ec4899&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Chandra324's GitHub stats" /></a><a
                       href="http://www.github.com/Chandra324"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=Chandra324&stroke=ec4899&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ec4899&currStreakLabel=0891b2&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a>
